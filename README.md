@@ -26,8 +26,7 @@ You can check out some of my articles on Velog:
 
 You can connect with me through the following channels:
 
-- GitHub: [YourGitHubUsername](https://github.com/k-bobin)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/kim-bobin/)
+- LinkedIn: [Bobin Kim](https://www.linkedin.com/in/kim-bobin/)
 - Email: bobinkim0@gmail.com
 
 Feel free to reach out if you'd like to discuss coding challenges, share knowledge, or chat about our shared interests in AI, machine learning, or computer vision. Let's learn and grow together!
