@@ -1,16 +1,6 @@
 ### 👋 Hi, I'm Bobin Kim
+Besides GitHub, I also write tech articles on my [Velog](https://velog.io/@k_bobin), covering topics like Deep Learning fundamentals, AI mathematics, statistics, trouble shooting, and Python basics.
 
-- 🌟 I'm actively pursuing a daily coding challenge goal of solving 1 coding test a day.
-- 💡 I'm deeply passionate about deep learning and machine learning, with a strong focus on computer vision.
-- 📝 Besides GitHub, I also write tech articles on my [Velog](https://velog.io/@k_bobin), covering topics like Deep Learning fundamentals, AI mathematics, statistics, trouble shooting, and Python basics.
-
-### 🌱 My Interests:
-
-- Deep Learning
-- Machine Learning
-- Computer Vision
-- Artificial Intelligence
-- Data Science
 
 ### 📚 My Velog Articles:
 
@@ -29,7 +19,7 @@ You can connect with me through the following channels:
 - LinkedIn: [Bobin Kim](https://www.linkedin.com/in/kim-bobin/)
 - Email: bobinkim0@gmail.com
 
-Feel free to reach out if you'd like to discuss coding challenges, share knowledge, or chat about our shared interests in AI, machine learning, or computer vision. Let's learn and grow together!
+Feel free to reach out if you'd like to discuss coding challenges, share knowledge, or chat about our shared interests in AI, machine learning, etc. Let's learn and grow together!
 
 
 <!---
